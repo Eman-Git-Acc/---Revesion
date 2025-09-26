@@ -1,0 +1,22 @@
+[
+  {
+    "FName": "Tareq",
+    "LName": "Ali",
+    "Email": "tareq@gmail.com",
+    "Address": {
+      "Country": "Syria",
+      "City": "Aleppo",
+      "StreetNumber": "ABC001"
+    }
+  },
+  {
+    "FName": "Ayman",
+    "LName": "Ali",
+    "Email": "tareq@gmail.com",
+    "Address": {
+      "Country": "Syria",
+      "City": "Aleppo",
+      "StreetNumber": "Z445"
+    }
+  }
+]
